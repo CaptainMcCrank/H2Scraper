@@ -1,5 +1,5 @@
 ## Project title
-Google fails us on the regular.  It's time to start scraping valuable content and keeping local repositories of useful information. **what** the project is about.
+Google fails us on the regular.  It's time to start scraping valuable content and keeping local repositories of useful information. 
 
 ## Motivation
 I was writing a doc comparing stateful and stateless firewall capabilities.    **Scraping** a structured page where they had various DoS attacks enumerated in H2 headers was a better use of my time than copy paste.
